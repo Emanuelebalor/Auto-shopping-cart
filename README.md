@@ -4,4 +4,5 @@ The website is property of Razvan Vancea (https://razvanvancea.ro/), a trainer a
 
 About the project:
 
-This project consists of the automation of https://qa-practice.netlify.app/auth_ecommerce.html module, it logsin, adds the specified items to cart, updates the quantitty and/or removes items from cart, and checks-out
+This project is made using Python, Selenium and Chromedriver.
+The project automates the process of a customer loging into a site, selecting items and quantities and sending a purchase order.
